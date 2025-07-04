@@ -118,23 +118,6 @@ This case study involved a comprehensive analysis of Amazon product review data 
 
 📁 **Project Repository Structure**
 
-```
-/Amazon_Product_Review_Analysis
-│
-├── Data/
-│   └── amazon_product_reviews.csv
-│
-├── Analysis_Notebooks/
-│   └── product_review_analysis.ipynb
-│
-├── Visualizations/
-│   └── charts_and_graphs.png
-│
-├── Dashboard/
-│   └── amazon_dashboard.xlsx
-│
-└── README.md
-```
 
 ---
 
